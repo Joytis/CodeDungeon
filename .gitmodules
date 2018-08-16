@@ -22,3 +22,6 @@
 [submodule "2017/CS347_CryptClone"]
 	path = 2017/CS347_CryptClone
 	url = https://github.com/Joytis/CS347_CryptClone
+[submodule "2018/rust-test"]
+	path = 2018/rust-test
+	url = https://github.com/Joytis/rust-test
