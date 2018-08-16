@@ -52,3 +52,15 @@
 [submodule "2014-2016/armlab2"]
 	path = 2014-2016/armlab2
 	url = https://github.com/Joytis/armlab2
+[submodule "2017/CS317-SadishAlgorithms"]
+	path = 2017/CS317-SadishAlgorithms
+	url = https://github.com/Joytis/CS317-SadishAlgorithms
+[submodule "2017/CS321-IntroOopJava"]
+	path = 2017/CS321-IntroOopJava
+	url = https://github.com/Joytis/CS321-IntroOopJava
+[submodule "2017/CS347-Project3"]
+	path = 2017/CS347-Project3
+	url = https://github.com/Joytis/CS347-Project3
+[submodule "2014-2016/CS221-ColemanDataStructs"]
+	path = 2014-2016/CS221-ColemanDataStructs
+	url = https://github.com/Joytis/CS221-ColemanDataStructs
