@@ -64,3 +64,6 @@
 [submodule "2014-2016/CS221-ColemanDataStructs"]
 	path = 2014-2016/CS221-ColemanDataStructs
 	url = https://github.com/Joytis/CS221-ColemanDataStructs
+[submodule "2014-2016/CSharp_GameProgrammingLearning"]
+	path = 2014-2016/CSharp_GameProgrammingLearning
+	url = https://github.com/Joytis/CSharp_GameProgrammingLearning
