@@ -40,3 +40,30 @@
 [submodule "2014-2016/clarksouls"]
 	path = 2014-2016/clarksouls
 	url = https://github.com/Joytis/clarksouls
+[submodule "2017/CS424_program2"]
+	path = 2017/CS424_program2
+	url = https://github.com/Joytis/CS424_program2
+[submodule "2014-2016/CS317-Project1"]
+	path = 2014-2016/CS317-Project1
+	url = https://github.com/Joytis/CS317-Project1
+[submodule "2014-2016/CS321Project"]
+	path = 2014-2016/CS321Project
+	url = https://github.com/Joytis/CS321Project
+[submodule "2014-2016/GlutDrawtime"]
+	path = 2014-2016/GlutDrawtime
+	url = https://github.com/Joytis/GlutDrawtime
+[submodule "2014-2016/CS307_Project1"]
+	path = 2014-2016/CS307_Project1
+	url = https://github.com/Joytis/CS307_Project1
+[submodule "2014-2016/CS445_project2"]
+	path = 2014-2016/CS445_project2
+	url = https://github.com/Joytis/CS445_project2
+[submodule "2014-2016/CS307_Project2"]
+	path = 2014-2016/CS307_Project2
+	url = https://github.com/Joytis/CS307_Project2
+[submodule "2014-2016/CS445_Project3"]
+	path = 2014-2016/CS445_Project3
+	url = https://github.com/Joytis/CS445_Project3
+[submodule "2014-2016/armlab2"]
+	path = 2014-2016/armlab2
+	url = https://github.com/Joytis/armlab2
