@@ -19,3 +19,6 @@
 [submodule "2017/clarkwaylife_unity"]
 	path = 2017/clarkwaylife_unity
 	url = https://github.com/Joytis/clarkwaylife_unity
+[submodule "2017/CS347_CryptClone"]
+	path = 2017/CS347_CryptClone
+	url = https://github.com/Joytis/CS347_CryptClone
