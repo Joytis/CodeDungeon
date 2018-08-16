@@ -16,3 +16,6 @@
 [submodule "2014-2016/Spooky-LD36"]
 	path = 2014-2016/Spooky-LD36
 	url = https://github.com/Joytis/Spooky-LD36
+[submodule "2017/clarkwaylife_unity"]
+	path = 2017/clarkwaylife_unity
+	url = https://github.com/Joytis/clarkwaylife_unity
