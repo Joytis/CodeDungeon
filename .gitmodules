@@ -37,3 +37,6 @@
 [submodule "2014-2016/FirstSdlTest"]
 	path = 2014-2016/FirstSdlTest
 	url = https://github.com/Joytis/FirstSdlTest
+[submodule "2014-2016/clarksouls"]
+	path = 2014-2016/clarksouls
+	url = https://github.com/Joytis/clarksouls
