@@ -1,3 +1,6 @@
 [submodule "2014-2016/PickyEater-LD34"]
 	path = 2014-2016/PickyEater-LD34
 	url = https://github.com/Joytis/PickyEater-LD34
+[submodule "2014-2016/GameProgramming_ALearningAdventure"]
+	path = 2014-2016/GameProgramming_ALearningAdventure
+	url = https://github.com/Joytis/GameProgramming_ALearningAdventure
