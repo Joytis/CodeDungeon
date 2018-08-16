@@ -28,3 +28,12 @@
 [submodule "2017/CS121"]
 	path = 2017/CS121
 	url = https://github.com/Joytis/CS121
+[submodule "2018/GGJ2018"]
+	path = 2018/GGJ2018
+	url = https://github.com/Joytis/GGJ2018
+[submodule "2017/PrismBreak"]
+	path = 2017/PrismBreak
+	url = https://github.com/Joytis/PrismBreak
+[submodule "2014-2016/FirstSdlTest"]
+	path = 2014-2016/FirstSdlTest
+	url = https://github.com/Joytis/FirstSdlTest
