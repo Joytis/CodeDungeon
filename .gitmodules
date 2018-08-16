@@ -4,3 +4,12 @@
 [submodule "2014-2016/GameProgramming_ALearningAdventure"]
 	path = 2014-2016/GameProgramming_ALearningAdventure
 	url = https://github.com/Joytis/GameProgramming_ALearningAdventure
+[submodule "2014-2016/MothersDrum-GGJ16"]
+	path = 2014-2016/MothersDrum-GGJ16
+	url = https://github.com/Joytis/MothersDrum-GGJ16
+[submodule "2014-2016/OldClarksoulsEngine"]
+	path = 2014-2016/OldClarksoulsEngine
+	url = https://github.com/Joytis/OldClarksoulsEngine
+[submodule "2014-2016/clarkwaylife"]
+	path = 2014-2016/clarkwaylife
+	url = https://github.com/Joytis/clarkwaylife
