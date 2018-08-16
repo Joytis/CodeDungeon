@@ -25,3 +25,6 @@
 [submodule "2018/rust-test"]
 	path = 2018/rust-test
 	url = https://github.com/Joytis/rust-test
+[submodule "2017/CS121"]
+	path = 2017/CS121
+	url = https://github.com/Joytis/CS121
