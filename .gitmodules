@@ -13,3 +13,6 @@
 [submodule "2014-2016/clarkwaylife"]
 	path = 2014-2016/clarkwaylife
 	url = https://github.com/Joytis/clarkwaylife
+[submodule "2014-2016/Spooky-LD36"]
+	path = 2014-2016/Spooky-LD36
+	url = https://github.com/Joytis/Spooky-LD36
