@@ -73,3 +73,6 @@
 [submodule "2017/CS413-DigitalArchitecture"]
 	path = 2017/CS413-DigitalArchitecture
 	url = https://github.com/Joytis/CS413-DigitalArchitecture
+[submodule "2017/CS424-ProgrammingLanguages"]
+	path = 2017/CS424-ProgrammingLanguages
+	url = https://github.com/Joytis/CS424-ProgrammingLanguages
