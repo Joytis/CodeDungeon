@@ -67,3 +67,6 @@
 [submodule "2014-2016/CSharp_GameProgrammingLearning"]
 	path = 2014-2016/CSharp_GameProgrammingLearning
 	url = https://github.com/Joytis/CSharp_GameProgrammingLearning
+[submodule "2014-2016/LearnCTheHardWay"]
+	path = 2014-2016/LearnCTheHardWay
+	url = https://github.com/Joytis/LearnCTheHardWay
