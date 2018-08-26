@@ -79,3 +79,12 @@
 [submodule "2017/wizengine"]
 	path = 2017/wizengine
 	url = https://github.com/Joytis/wizengine
+[submodule "2018/CS445_Project3"]
+	path = 2018/CS445_Project3
+	url = https://github.com/Joytis/CS445_Project3.git
+[submodule "2018/CS445_Project2"]
+	path = 2018/CS445_Project2
+	url = https://github.com/Joytis/CS445_Project2.git
+[submodule "2018/CS445Project1"]
+	path = 2018/CS445Project1
+	url = https://github.com/Joytis/CS445Project1.git
